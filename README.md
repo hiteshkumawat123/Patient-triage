@@ -192,12 +192,3 @@ identifiable patient data.
 They expect a Chromium install reachable by Playwright. Run
 `npx playwright install chromium` once after `npm install` if your
 environment does not already have a Chromium build available.
-
-
-## Maintainers
-
-- Vedaant Gupta — [@YOUR-USERNAME](https://github.com/YOUR-USERNAME)
-
-Current maintainer(s):
-
-- Vedaant Gupta - [@YOUR-USERNAME](https://github.com/YOUR-USERNAME)
