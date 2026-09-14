@@ -1,0 +1,12 @@
+{
+  "name": "patienttriage-ai-qa",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Optional Playwright QA scripts for the PatientTriage.ai prototype.",
+  "scripts": {
+    "test": "node test-happy-path.js && node test-overrides-and-modals.js"
+  },
+  "devDependencies": {
+    "playwright": "^1.47.0"
+  }
+}
